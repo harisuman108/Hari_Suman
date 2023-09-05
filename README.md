@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <img src="https://api.daily.dev/devcards/XYZ.png?r=zpj" width="400" alt="Ayush Kanduri's Dev Card" align="right"/>
 </a> -->
 <a href="https://app.daily.dev/Hari Suman ">
-  <img src="https://github.com/Ayush-Kanduri/Ayush-Kanduri/blob/master/devcard.svg" width="400" alt="Ayush Kanduri's Dev Card" align="right"/>
+  <img src="https://github.com/Ayush-Kanduri/Ayush-Kanduri/blob/master/devcard.svg" width="400" alt="Hari Suman's Dev Card" align="right"/>
 </a>
 
 ### Hi, I'm 𝗔𝘆𝘂𝘀𝗵 𝗞𝗮𝗻𝗱𝘂𝗿𝗶, a passionate 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 from 𝗜𝗻𝗱𝗶𝗮!
